@@ -14,13 +14,23 @@ export default {
 			to="/projects"
 			class="font-general-medium block text-left text-lg font-medium text-primary-dark dark:text-ternary-light hover:text-indigo-600 dark:hover:text-indigo-300  sm:mx-4 mb-2 sm:py-2 "
 			aria-label="Projects"
-			>Projects</router-link
-		>
+			>Projects</router-link>
 		<router-link
 			to="/about"
 			class="font-general-medium block text-left text-lg font-medium text-primary-dark dark:text-ternary-light hover:text-indigo-600 dark:hover:text-indigo-300  sm:mx-4 mb-2 sm:py-2 border-t-2 pt-3 sm:pt-2 sm:border-t-0 border-primary-light dark:border-secondary-dark"
-			aria-label="About Me"
-			>About zkSync</router-link
+			aria-label="About"
+			>About zkSync</router-link>
+		<router-link
+			to="/subscribe"
+			class="font-general-medium block text-left text-lg font-medium text-primary-dark dark:text-ternary-light hover:text-indigo-600 dark:hover:text-indigo-300  sm:mx-4 mb-2 sm:py-2 border-t-2 pt-3 sm:pt-2 sm:border-t-0 border-primary-light dark:border-secondary-dark"
+			aria-label="Get Free Domain"
+			>Get Free Domain</router-link>
+		<a
+			href="https://zcmp.eu/0QWG"
+			target="_blank"
+			class="font-general-medium block text-left text-lg font-medium text-primary-dark dark:text-ternary-light hover:text-indigo-600 dark:hover:text-indigo-300  sm:mx-4 mb-2 sm:py-2 border-t-2 pt-3 sm:pt-2 sm:border-t-0 border-primary-light dark:border-secondary-dark"
+			aria-label="Get Free Domain"
+			>Subscribe</a
 		>
 	</div>
 </template>
