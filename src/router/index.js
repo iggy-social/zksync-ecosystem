@@ -7,7 +7,7 @@ const routes = [
 		name: 'Home',
 		component: Home,
 		meta: {
-			title: 'zkSync Ecosystem - Directory of projects on zkSync Era',
+			title: 'zkSync Dapps List - Directory of projects on zkSync Era',
 		},
 	},
 	{

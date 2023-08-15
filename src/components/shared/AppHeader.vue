@@ -76,7 +76,7 @@ export default {
 				<!-- Header logos -->
 				<div>
 					<router-link class="text-3xl font-medium text-ternary-dark dark:text-ternary-light title-text" to="/"
-						>zkSync Ecosystem
+						>zkSync Dapps List
 					</router-link>
 				</div>
 

@@ -17,11 +17,11 @@ export default {
 		>
 			&copy; {{ copyrightDate }} by 
 			<a
-				href="https://zkchat.net"
+				href="https://dappslist.net"
 				target="__blank"
 				class="font-general-medium hover:underline hover:text-indigo-600 dark:hover:text-indigo-300 duration-500"
 			>
-				zkChat</a>. (<a
+				Dapps List</a>. (<a
 				href="https://github.com/realstoman/vuejs-tailwindcss-portfolio"
 				target="__blank"
 				class="font-general-medium hover:underline hover:text-indigo-600 dark:hover:text-indigo-300 duration-500"

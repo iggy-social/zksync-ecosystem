@@ -1,6 +1,6 @@
-# zkSync Ecosystem
+# zkSync Dapps List
 
-The unofficial zkSync Ecosystem directory maintained by the zkChat team.
+The unofficial zkSync Ecosystem directory maintained by the DappsList.net team.
 
 > The theme was developed by [Stoman](https://github.com/realstoman/vuejs-tailwindcss-portfolio).
 
